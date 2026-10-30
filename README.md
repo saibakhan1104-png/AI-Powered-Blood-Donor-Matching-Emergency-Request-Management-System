@@ -16,6 +16,8 @@
 ### 👤 Project Student / Author
 - **Saiba Khan** (System Architect & Project Developer) — **Student ID: IT-24006**
   * **Course:** Software Engineering and Project Management
+  * **Department:** Department of Information and Communication Technology (ICT)   
+  * **Institution:** Mawlana Bhashani Science and Technology University (MBSTU), Santosh, Tangail-1902  
 
 ### 🔗 Project Access Links
 - **📁 Source Code Repository (GitHub):**  
